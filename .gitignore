@@ -1,0 +1,10 @@
+# Maven
+log/
+target/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+src/main/resources/META-INF/persistence.xml
+src/main/java/ImageHoster/config/JpaConfig.java
